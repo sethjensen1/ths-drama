@@ -1,0 +1,38 @@
+body {
+  background-color: #0064ff;
+  font-family: Source Sans Pro, Arial, sans-serif;
+  margin: 0;
+}
+
+a {
+  color: #ff0677;
+}
+
+a:hover {
+  color: #06a1ff;
+}
+
+header {
+  text-align: center;
+  font-size: 75px;
+  font-style: italic;
+  background-color: #2a3035;
+  color: #ff8c8c;
+  margin: 0;
+  padding: 30px 0;
+}
+
+#content {
+  padding: 0 100px;
+}
+
+#tracks h3 {
+  font-size: 28px;
+}
+
+#tracks ul {
+  width: 33%;
+  border: 1px black;
+  background-color: #000;
+  font-size: 20px;
+}
